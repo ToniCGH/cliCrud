@@ -1,1 +1,1 @@
-Adding CRUD operations to my Yargs CLI project.
+Adding CRUD operations and MongoDB (non-relational DB) to my Yargs CLI project.
